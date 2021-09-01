@@ -1,0 +1,41 @@
+@charset "utf-8";
+#navbar-brand{
+    font-family: Comic Sans MS;
+    background-color: brown;
+}
+
+img {
+     max-width: 100%;
+}
+.step1 h1{
+    color: white;
+    background-color: #956840;
+}
+.step2 h1{
+    color: white;
+    background-color: #956840;
+}
+.step1{
+    border: 1px solid #956840;
+    background-image: url(haikei.png);
+}
+.step2{
+    border: 1px solid #956840;
+    background-image: url(inhuru-3.png);
+}
+footer small {
+    display: block;
+    padding: 8px 0;
+    color: #fff;
+}
+.managerlist{
+    color: white;
+    background-color: #956840;
+}
+.oll{
+    border: 1px solid #956840;
+}
+.text-center{
+    color: white;
+    background-color: #956840;
+}
